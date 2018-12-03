@@ -1,0 +1,21 @@
+[DBUG] 2018/11/28 20:27 GET: / -> main.main.func1()
+[DBUG] 2018/11/28 20:27 Application: running using 1 host(s)
+[DBUG] 2018/11/28 20:27 Host: addr is :8080
+[DBUG] 2018/11/28 20:27 Host: virtual host is localhost:8080
+[DBUG] 2018/11/28 20:27 Host: register startup notifier
+[DBUG] 2018/11/28 20:27 Host: register server shutdown on interrupt(CTRL+C/CMD+C)
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2018/11/28 20:28 http: Server closed
+[DBUG] 2018/11/28 20:30 GET: / -> main.main.func1()
+[DBUG] 2018/11/28 20:30 Application: running using 1 host(s)
+[DBUG] 2018/11/28 20:30 Host: addr is :8080
+[DBUG] 2018/11/28 20:30 Host: virtual host is localhost:8080
+[DBUG] 2018/11/28 20:30 Host: register startup notifier
+[DBUG] 2018/11/28 20:30 Host: register server shutdown on interrupt(CTRL+C/CMD+C)
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2018/11/28 20:30 fuck
+[ERRO] 2018/11/28 20:30 fuck
+[ERRO] 2018/11/28 20:30 fuck
+[ERRO] 2018/11/28 20:31 http: Server closed
